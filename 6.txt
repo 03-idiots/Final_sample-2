@@ -1,0 +1,11 @@
+Title: "Malware Campaign Using Remote Access Trojans"
+Date: November 12, 2024
+
+Executive Summary:
+A recent malware campaign employs Remote Access Trojans (RATs) delivered through Phishing emails. Once users execute the attached files, attackers gain unauthorized access to systems, establishing Command and Control channels for remote operations. This campaign is also leveraging Exfiltration Techniques to extract files and sensitive information.
+
+Recommended Mitigations:
+
+Train users to avoid executing unknown file attachments as a defense against Phishing.
+Use endpoint protection to detect and block RATs.
+Monitor for data transfers that may indicate Exfiltration Techniques.

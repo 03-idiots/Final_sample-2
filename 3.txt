@@ -1,0 +1,12 @@
+Title: "Credential Harvesting Campaign Targets Corporate Networks"
+Date: October 29, 2024
+
+Executive Summary:
+A recent Phishing campaign has been reported, focusing on corporate networks to harvest credentials. Attackers utilize fake login pages to capture sensitive information, subsequently establishing Command and Control channels for lateral movement within the network. This campaign also employs advanced Exfiltration Techniques to transmit stolen credentials to remote servers.
+
+Recommended Mitigations:
+
+Implement multi-factor authentication (MFA) to protect user accounts.
+Conduct regular security awareness training to help employees recognize Phishing tactics.
+Use intrusion detection systems to identify unusual network activity related to Exfiltration Techniques.
+Title: "Zero-Day Exploit in P

@@ -1,0 +1,11 @@
+Title: "New Botnet Discovered Targeting IoT Devices"
+Date: October 22, 2024
+
+Executive Summary:
+A sophisticated botnet has emerged, exploiting vulnerabilities in Internet of Things (IoT) devices. The botnet initiates attacks via Phishing techniques that trick users into downloading malicious firmware updates. Once compromised, these devices establish Command and Control channels, allowing attackers to execute coordinated DDoS attacks and employ Exfiltration Techniques to harvest data from connected networks.
+
+Recommended Mitigations:
+
+Regularly update firmware on IoT devices to close known vulnerabilities.
+Educate users on the dangers of unsolicited firmware updates as part of Phishing awareness training.
+Monitor network traffic for any unusual patterns indicative of Exfiltration Techniques.

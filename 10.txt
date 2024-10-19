@@ -1,0 +1,11 @@
+Title: "Insider Threat Campaign Compromises Company Data"
+Date: December 10, 2024
+
+Executive Summary:
+An insider threat campaign has been uncovered, where employees are exploited via Phishing tactics to disclose sensitive company data. The attackers establish Command and Control channels to manipulate insider information and utilize Exfiltration Techniques to transfer sensitive data outside the organization.
+
+Recommended Mitigations:
+
+Implement strict access controls to limit sensitive data exposure.
+Monitor employee activities and communications to identify potential insider threats.
+Use analytics to detect anomalies consistent with Exfiltration Techniques.

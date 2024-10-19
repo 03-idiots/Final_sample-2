@@ -1,0 +1,11 @@
+Title: "Ransomware Leveraging Remote Services for Attack"
+Date: November 15, 2024
+
+Executive Summary:
+A new ransomware strain has emerged, leveraging Remote Services to gain initial access to corporate networks. The attack typically begins with Phishing emails that deliver malicious payloads. After gaining entry, the attackers establish Command and Control Techniques to encrypt files and employ Persistence Techniques to maintain access post-infection.
+
+Recommended Mitigations:
+
+Secure Remote Services with strong passwords and multi-factor authentication.
+Educate employees on identifying Phishing emails to reduce risk.
+Regularly back up data to mitigate the impact of ransomware attacks.

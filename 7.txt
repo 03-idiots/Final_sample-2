@@ -1,0 +1,11 @@
+Title: "Phishing Campaign Targeting Financial Sector"
+Date: November 19, 2024
+
+Executive Summary:
+A targeted Phishing campaign has been launched against financial institutions. The attackers send emails with malicious links leading to spoofed banking websites, where users unknowingly submit their credentials. These stolen credentials are used to establish Command and Control channels for unauthorized transactions and employ Exfiltration Techniques to steal customer data.
+
+Recommended Mitigations:
+
+Enforce secure email gateways to filter out Phishing attempts.
+Implement strong user verification processes to prevent unauthorized access.
+Use monitoring systems to detect unusual account activities indicative of Exfiltration Techniques.

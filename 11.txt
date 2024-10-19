@@ -1,0 +1,11 @@
+Title: "Credential Dumping Attack Compromises User Accounts"
+Date: October 18, 2024
+
+Executive Summary:
+A recent attack has been reported involving Credential Dumping, where attackers gain access to user credentials through Phishing emails. Once the credentials are obtained, they establish Command and Control Techniques to maintain access. The attackers utilize Remote Services to facilitate lateral movement across the network, exploiting valid accounts to escalate privileges and execute malicious tasks.
+
+Recommended Mitigations:
+
+Educate users about Phishing tactics to prevent credential theft.
+Implement multi-factor authentication to safeguard against unauthorized access.
+Monitor network traffic for unusual System Network Connections Discovery indicative of lateral movement.

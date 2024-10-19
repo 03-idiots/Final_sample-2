@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: "C:/Users/vicky/Desktop/app/106133.jpg"; /* Added your background image path */
+    background-size: cover;
+    background-position: center;
+}
+.container {
+    background: rgba(255, 255, 255, 0);
+    background-image: 'C:/Users/vicky/Desktop/app/106133.jpg';
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+    text-align: center;
+}
+h1 {
+    margin-bottom: 20px;
+    background-image: url('C:/Users/vicky/Desktop/app/106133.jpg');
+}
+form {
+    margin-bottom: 20px;
+}
+#results {
+    margin-top: 20px;
+}
+button {
+    font-family: Arial, sans-serif;
+    background-color: #007bff;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}

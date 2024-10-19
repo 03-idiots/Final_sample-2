@@ -1,0 +1,22 @@
+Title: "Phishing Campaign Targeting Financial Sector"
+Date: November 19, 2024
+
+Executive Summary:
+A targeted Phishing campaign has been launched against financial institutions. The attackers send emails with malicious links leading to spoofed banking websites, where users unknowingly submit their credentials. These stolen credentials are used to establish Command and Control channels for unauthorized transactions and employ Exfiltration Techniques to steal customer data.
+
+Recommended Mitigations:
+
+Enforce secure email gateways to filter out Phishing attempts.
+Implement strong user verification processes to prevent unauthorized access.
+Use monitoring systems to detect unusual account activities indicative of Exfiltration Techniques.
+Title: "Advanced Persistent Threat (APT) Targets Manufacturing Sector"
+Date: November 26, 2024
+
+Executive Summary:
+An Advanced Persistent Threat (APT) has been identified targeting manufacturing companies. The initial breach is facilitated through Phishing emails containing malicious links. Once inside the network, the attackers establish Command and Control channels and utilize Exfiltration Techniques to steal proprietary designs and blueprints.
+
+Recommended Mitigations:
+
+Conduct regular cybersecurity training to raise awareness about Phishing.
+Implement strict access controls and monitoring to detect unauthorized activities.
+Regularly review network traffic for signs of Exfiltration Techniques.

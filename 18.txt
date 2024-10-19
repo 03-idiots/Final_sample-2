@@ -1,0 +1,11 @@
+Title: "Phishing Campaign Targets Remote Desktop Protocol Users"
+Date: November 29, 2024
+
+Executive Summary:
+A targeted Phishing campaign has been detected, specifically aimed at users of Remote Desktop Protocol (RDP). Attackers use social engineering tactics to convince users to provide credentials, allowing them to establish Command and Control channels. Following this, they exploit valid accounts to perform Lateral Movement Techniques across the organization’s network.
+
+Recommended Mitigations:
+
+Educate users on securing RDP sessions with strong passwords and MFA.
+Use security measures to monitor for unauthorized Lateral Movement Techniques.
+Implement robust Phishing detection mechanisms in email systems.

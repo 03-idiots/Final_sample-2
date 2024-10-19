@@ -1,0 +1,11 @@
+Title: "Persistent Threats Using Lateral Movement Techniques"
+Date: December 13, 2024
+
+Executive Summary:
+Recent investigations have revealed persistent threats employing advanced Lateral Movement Techniques to navigate corporate networks undetected. Attackers initiate their operations through Phishing attacks, then use Remote Services and Command and Control Techniques to establish footholds in multiple systems. Their tactics include Persistence Techniques to ensure long-term access.
+
+Recommended Mitigations:
+
+Implement network segmentation to limit lateral movement opportunities.
+Use threat hunting practices to detect anomalies consistent with Lateral Movement Techniques.
+Conduct regular training on recognizing Phishing attempts among staff.

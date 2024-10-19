@@ -1,0 +1,11 @@
+Title: "Advanced Persistent Threat (APT) Targets Manufacturing Sector"
+Date: November 26, 2024
+
+Executive Summary:
+An Advanced Persistent Threat (APT) has been identified targeting manufacturing companies. The initial breach is facilitated through Phishing emails containing malicious links. Once inside the network, the attackers establish Command and Control channels and utilize Exfiltration Techniques to steal proprietary designs and blueprints.
+
+Recommended Mitigations:
+
+Conduct regular cybersecurity training to raise awareness about Phishing.
+Implement strict access controls and monitoring to detect unauthorized activities.
+Regularly review network traffic for signs of Exfiltration Techniques.

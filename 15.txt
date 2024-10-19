@@ -1,0 +1,11 @@
+Title: "Advanced Malware Utilizing Process Injection Techniques"
+Date: November 22, 2024
+
+Executive Summary:
+A new strain of malware has been discovered that utilizes Process Injection techniques to evade detection by security software. The malware is often delivered through Phishing emails and is designed to establish Command and Control channels for remote access. Once inside the network, it employs Credential Dumping to harvest user credentials and execute Privilege Escalation Techniques.
+
+Recommended Mitigations:
+
+Implement endpoint detection and response (EDR) solutions to identify Process Injection activities.
+Train users on Phishing awareness to prevent initial infection.
+Monitor for unauthorized access attempts to sensitive systems.

@@ -1,0 +1,11 @@
+Title: "Ransomware Attack Targets Healthcare Institutions"
+Date: October 15, 2024
+
+Executive Summary:
+A new Ransomware strain has been discovered, specifically targeting healthcare institutions. The attack vector primarily involves Phishing emails containing infected PDF files. When opened, these documents trigger the encryption of sensitive patient data and establish Command and Control channels for the attackers. The use of Exfiltration Techniques has been noted, with attackers transferring stolen data to external servers before demanding ransom.
+
+Recommended Mitigations:
+
+Train staff to recognize and report Phishing emails to mitigate risks.
+Regularly back up critical data to secure locations to avoid data loss.
+Implement network monitoring to detect any unusual outbound traffic indicative of Exfiltration Techniques.
